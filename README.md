@@ -14,11 +14,11 @@
   </a>
   
   <a href="#">
-    <img src="https://img.shields.io/badge/🖥️-Programmer-484948?style=flat-square" alt="Programmer">
+    <img style="border-radius: 5px" src="https://img.shields.io/badge/🖥️-Programmer-484948?style=flat-square" alt="Programmer">
   </a>
   
   <a href="#">
-    <img src="https://img.shields.io/badge/🖌️-Graphic%20Designer-484948?style=flat-square" alt="Graphic Designer">
+    <img style="border-radius: 5px" src="https://img.shields.io/badge/🖌️-Graphic%20Designer-484948?style=flat-square" alt="Graphic Designer">
   </a>
 </h1>
 
