@@ -9,7 +9,7 @@
   Hey there 👋 I am Kenneth Gonzales!
   </samp>
 
-    [![Skills](https://img.shields.io/badge/Skills-BSCPE%20Student%20-ff69b4?style=flat-square)](#)
+  [![Skills](https://img.shields.io/badge/Skills-BSCPE%20Student%20-ff69b4?style=flat-square)](#)
 
 </h1>
 
