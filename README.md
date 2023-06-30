@@ -4,7 +4,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://stickers.giphy.com/stickers/cartoon-computer-laptop-MxZKME5mbgeXckKp14" height="100" width="auto">
+  <img src="giphy.gif" height="100" width="auto">
   <h1>Hey There 👋 I am Kenneth Gonzales!</h1>
 </div>
 
