@@ -1,9 +1,5 @@
 <!-- Updated README.md 🎉 -->
 
-<div align="center">
-<img src="giphy.gif" alt="Animated GIF" height="200">
-</div>
-
 <h1 align="center">
   <samp>
     Hey there 👋 I am Kenneth Gonzales!
@@ -22,4 +18,7 @@
   </a>
 </h1>
 
+<div align="center">
+<img src="giphy.gif" alt="Animated GIF" height="200">
+</div>
   
