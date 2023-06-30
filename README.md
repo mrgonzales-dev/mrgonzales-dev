@@ -2,6 +2,6 @@
 <div id="header" align="center">
   <img src="giphy.gif" height="200" width="auto">
   <h1>Hey there 👋
-  <p>I am Kenneth Gonzales!</p>
+  <br>I am Kenneth Gonzales!
   </h1>
 </div>
