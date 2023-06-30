@@ -10,7 +10,7 @@
   </samp>
   <br> 
   <a href="#">
-    <img style="border-radius: 10px" src="https://img.shields.io/badge/🖥️-BSCPE%20Student%20-484948?style=flat-square" alt="BSCPE Student">
+    <img style="border-radius: 5px" src="https://img.shields.io/badge/🖥️-BSCPE%20Student%20-484948?style=flat-square" alt="BSCPE Student">
   </a>
   
   <a href="#">
