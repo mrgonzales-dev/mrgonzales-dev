@@ -16,9 +16,10 @@
   <a href="#">
     <img style="border-radius: 5px" src="https://img.shields.io/badge/🖌️-Graphic%20Designer-484948?style=flat-square" alt="Graphic Designer">
   </a>
+  
+  <div align="center">
+  <img src="giphy.gif" alt="Animated GIF" height="200">
+  </div>
 </h1>
 
-<div align="center">
-<img src="giphy.gif" alt="Animated GIF" height="200">
-</div>
   
