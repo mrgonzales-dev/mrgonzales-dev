@@ -10,13 +10,13 @@
   </samp>
 </h1>
 
-<socmeds align"center">
+<div align"center">
   <p>Follow Me:</p>
-  
+
   [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/mr.gonzaleskenneth)
 
 
-</socmeds>
+</div>
 
 
   
