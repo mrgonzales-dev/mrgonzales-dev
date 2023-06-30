@@ -6,7 +6,7 @@
 
 <p align="center">
   <samp>
-    <p font-size="20px">Hey there 👋 I am Kenneth Gonzales!</p>
+    <span style="font-size: 20px;">Hey there 👋 I am Kenneth Gonzales!</span>  
   </samp>
   <br> 
   <a href="#">
