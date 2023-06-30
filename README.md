@@ -9,7 +9,7 @@
     Hey there 👋 I am Kenneth Gonzales!
   </samp>
   <br> 
-  <a href="#">
+  <a href="#" style="border-radius: 5px">
     <img src="https://img.shields.io/badge/🖥️-BSCPE%20Student%20-484948?style=flat-square" alt="BSCPE Student">
   </a>
   
