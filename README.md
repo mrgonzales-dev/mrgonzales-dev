@@ -1,6 +1,8 @@
 <!-- Updated README.md 🎉 -->
 
-<img src="giphy.gif" alt="Animated GIF" height="200" align="center">
+<div align="center">
+<img src="giphy.gif" alt="Animated GIF" height="200">
+</div>
 
 <h1 align="center">
   <samp>
