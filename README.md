@@ -4,9 +4,9 @@
 <img src="giphy.gif" alt="Animated GIF" height="200">
 </div>
 
-<p align="center">
+<h1 align="center">
   <samp>
-    <P style="font-size: 30px;">Hey there 👋 I am Kenneth Gonzales!</P>  
+    Hey there 👋 I am Kenneth Gonzales!
   </samp>
   <br> 
   <a href="#">
@@ -20,7 +20,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/🖌️-Graphic%20Designer-484948?style=flat-square" alt="Graphic Designer">
   </a>
-</p>
+</h1>
 
 
 <div align="center">
