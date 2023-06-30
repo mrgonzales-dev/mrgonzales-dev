@@ -5,7 +5,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/stickers/pudgypenguins-data-code-coding-FTFI4bczpUYAp4xuSt" width="100"/>
   <h1>Hey There 👋</h1>
 </div>
 
