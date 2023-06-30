@@ -10,15 +10,15 @@
   </samp>
   <br> 
   <a href="#">
-    <img src="https://img.shields.io/badge/🖥️-BSCPE%20Student%20-808080?style=flat-square" alt="BSCPE Student">
+    <img src="https://img.shields.io/badge/🖥️-BSCPE%20Student%20-484948?style=flat-square" alt="BSCPE Student">
   </a>
   
   <a href="#">
-    <img src="https://img.shields.io/badge/🖥️-Programmer-808080?style=flat-square" alt="Programmer">
+    <img src="https://img.shields.io/badge/🖥️-Programmer-484948?style=flat-square" alt="Programmer">
   </a>
   
   <a href="#">
-    <img src="https://img.shields.io/badge/🖌️-Graphic%20Designer-808080?style=flat-square" alt="Graphic Designer">
+    <img src="https://img.shields.io/badge/🖌️-Graphic%20Designer-484948?style=flat-square" alt="Graphic Designer">
   </a>
 </h1>
 
