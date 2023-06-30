@@ -4,7 +4,7 @@
 <img src="giphy.gif" alt="Animated GIF" height="200">
 </div>
 
-<h1 align="center">
+<p align="center">
   <samp>
     Hey there 👋 I am Kenneth Gonzales!
   </samp>
@@ -20,7 +20,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/🖌️-Graphic%20Designer-484948?style=flat-square" alt="Graphic Designer">
   </a>
-</h1>
+</p>
 
 
 <div align="center">
