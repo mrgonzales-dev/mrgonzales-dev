@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <samp>
-    Hey there 👋 I am Kenneth Gonzales!
+    Hey there 👋, I am Kenneth Gonzales!
   </samp>
   <br> 
   <a href="#">
