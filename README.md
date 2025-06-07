@@ -1,6 +1,6 @@
 <!-- Profile Logo -->
 <p align="center">
-  <img src="kglogo.png" alt="KG Logo" width="200" />
+  <img src="kglogo.png" alt="KG Logo" width="250" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kenneth Gonzales</h1>
