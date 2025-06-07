@@ -8,6 +8,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrgonzales-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mrgonzales-dev?label=Followers&style=flat&logo=github"/>
+  <img src="https://img.shields.io/github/stars/mrgonzales-dev?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/Learning-Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
